@@ -127,8 +127,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - A. Avgoustis, T. Exarchos, K. L. Kermanidis and P. Mylonas, "Applied Deep learning for categorizing dermoscopic images," 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4, doi: 10.1109/SMAP53521.2021.9610798.
-
+      - title: "Applied Deep learning for categorizing dermoscopic images,"
+        link : doi: 10.1109/SMAP53521.2021.9610798.
+        authors : A. Avgoustis, T. Exarchos, K. L. Kermanidis and P. Mylonas
+        conference : 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4, 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
