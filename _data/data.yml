@@ -55,6 +55,9 @@ education:
        # pretium quis, sem.
        #   - Bullet point
        #   - Bullet point
+    - degree: High School
+      school: 1st high school Corfu
+      time: 2012 - 2015
 experiences:
     - role: Lead Developer
       time: 2015 - Present
