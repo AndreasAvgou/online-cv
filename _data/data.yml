@@ -127,10 +127,7 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - A. Avgoustis, T. Exarchos, K. L. Kermanidis and P. Mylonas, "Applied Deep learning for categorizing dermoscopic images," 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4, doi: 10.1109/SMAP53521.2021.9610798.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
