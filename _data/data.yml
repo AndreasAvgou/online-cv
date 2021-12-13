@@ -122,25 +122,12 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+   
     papers:
       - title: "Applied Deep learning for categorizing dermoscopic images,"
         link : https://ieeexplore.ieee.org/abstract/document/9610798
         authors : A. Avgoustis, T. Exarchos, K. L. Kermanidis &amp P. Mylonas
         conference : 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4, 
-        
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -155,14 +142,17 @@ skills:
       - name: SQL
         level: 85%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Tensorflow
+        level: 80%
 
-      - name: Ruby on Rails
+      - name: Keras
+        level: 80%
+
+      - name: Spreedsheets
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        
+      - name: Tableau
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
