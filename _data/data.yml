@@ -46,7 +46,7 @@ education:
          # - Bullet point
     - degree: BSc in Informatics
       university: Ionian University
-      time: 2015 - 2021
+      time: October 2015 - February 2021
       #details: |
        # Describe your study here lorem ipsum dolor sit amet, consectetuer
       #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -57,7 +57,7 @@ education:
        #   - Bullet point
     - degree: High School
       university: 1st High School Corfu
-      time: 2012 - 2015
+      time: September 2012 - June 2015
 experiences:
     - role: Robotics Teacher in Children
       time: October 2021 - Present
@@ -75,7 +75,7 @@ experiences:
        # architecto beatae vitae dicta sunt explicabo.
          # - #Bullet point
         #  - Bullet point
-    - role: Website Managment
+    - role: Website Managment(Internship)
       time: July 2018 - August 2018
       company: Regional Directorate of Primary & Secondary Education
                Ionian islands, Corfu
