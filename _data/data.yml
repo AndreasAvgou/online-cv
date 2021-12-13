@@ -23,7 +23,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Proficiency
 education:
     #- degree: MSc in Computer Science
      # university: University of London
@@ -103,7 +103,7 @@ projects:
    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: CNN for Image Classification
+      - title: Melanoma Image Classification
         link: "https://github.com/AndreasAvgou/Convolution-Neural-Network-code"
         tagline: "A convolutional neural network for melanoma image classification"
 
