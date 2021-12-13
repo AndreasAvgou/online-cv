@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Andreas Avgoustis
@@ -24,15 +24,6 @@ sidebar:
 
       - idiom: English
         level: Professional
-career-profile:
-    title: Cerfiticates
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     #- degree: MSc in Computer Science
      # university: University of London
@@ -58,6 +49,15 @@ education:
     - degree: High School
       university: 1st High School Corfu
       time: September 2012 - June 2015
+career-profile:
+    title: Cerfiticates
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 experiences:
     - role: Robotics Teacher
       time: October 2021 - Present
