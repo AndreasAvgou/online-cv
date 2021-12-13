@@ -56,10 +56,9 @@ career-profile:
        - [College Link Data Analytics with R](https://www.dropbox.com/s/ipjbwwgc0o6orcd/certificate-data-analytics-elearning-academy-60e84967b33b2624ae7e16d2%20%281%29.pdf?dl=0)
        - [GoldenGatePro Data Science Workshop](https://www.dropbox.com/s/h87a3d4d8uccvr8/Andreas_Augoustis.pdf?dl=0) 
 experiences:
-    - role: Robotics Teacher
-      time: October 2021 - Present
-      company: Alfa Ekpaideutiki, Corfu
-      link: 'https://alfaedu.gr'
+       - role: Robotics Teacher
+         time: October 2021 - Present
+        company: Alfa Ekpaideutiki, Corfu
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -72,9 +71,9 @@ experiences:
        # architecto beatae vitae dicta sunt explicabo.
          # - #Bullet point
         #  - Bullet point
-    - role: Website Managment(Internship)
-      time: July 2018 - August 2018
-      company: Regional Directorate of 
+     - role: Website Managment(Internship)
+       time: July 2018 - August 2018
+       company: Regional Directorate of 
                Primary & Secondary Education
                Ionian islands, Corfu
      # details: |
