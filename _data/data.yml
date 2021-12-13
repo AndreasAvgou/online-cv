@@ -105,9 +105,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Convolutional Neural Network for classification
+        link: "https://github.com/AndreasAvgou/Convolution-Neural-Network-code"
+        tagline: "A convolutional neural network for melanoma image classification"
 
       - title: DevStudio
         link: "#"
