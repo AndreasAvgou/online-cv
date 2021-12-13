@@ -128,9 +128,10 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: "Applied Deep learning for categorizing dermoscopic images,"
-        link : doi: 10.1109/SMAP53521.2021.9610798.
-        authors : A. Avgoustis, T. Exarchos, K. L. Kermanidis and P. Mylonas
+        link : https://ieeexplore.ieee.org/abstract/document/9610798
+        authors : A. Avgoustis, T. Exarchos, K. L. Kermanidis &amp P. Mylonas
         conference : 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4, 
+        
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
@@ -145,14 +146,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 85%
 
       - name: HTML5 & CSS
         level: 95%
