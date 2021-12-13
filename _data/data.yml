@@ -61,8 +61,8 @@ education:
 experiences:
     - role: Robotics Teacher in Children
       time: 2021 - Present
-      link: "https://alfaedu.gr/"
       company: Alfa Ekpaideutiki, Corfu
+      link: https://alfaedu.gr
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
