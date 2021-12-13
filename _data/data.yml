@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar: |
+sidebar: 
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
@@ -51,7 +51,7 @@ education:
       time: September 2012 - June 2015
 career-profile:
     title: 
-    summary: |
+    summary: 
         - [Google Data Analytics Professional Certificate](https://www.dropbox.com/s/79nqe1hh05gotvi/Coursera%20ZDZZ36Q9XCRF.pdf?dl=0)
         - [College Link Data Analytics with R](https://www.dropbox.com/s/ipjbwwgc0o6orcd/certificate-data-analytics-elearning-academy-60e84967b33b2624ae7e16d2%20%281%29.pdf?dl=0)
         - [GoldenGatePro Data Science Workshop](https://www.dropbox.com/s/h87a3d4d8uccvr8/Andreas_Augoustis.pdf?dl=0) 
