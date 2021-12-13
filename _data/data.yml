@@ -52,7 +52,7 @@ education:
 career-profile:
     title: Cerfiticates
     summary: |
-      title: Google Data Analytics Professional Certificate
+      - Google Data Analytics Professional Certificate
 experiences:
     - role: Robotics Teacher
       time: October 2021 - Present
