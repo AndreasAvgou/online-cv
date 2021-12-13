@@ -105,7 +105,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Convolutional Neural Network for classification
+      - title: CNN for classification
         link: "https://github.com/AndreasAvgou/Convolution-Neural-Network-code"
         tagline: "A convolutional neural network for melanoma image classification"
 
