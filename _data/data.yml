@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: andreas_ker@hotmail.com
     linkedin: andreasavgoustis
-    github: AndreasAvgou
+    github: Projects
     pdf: https://www.dropbox.com/s/7aazh6uva0t6blb/Resume%28CV%29.pdf?dl=0
     
     languages:
@@ -57,7 +57,7 @@ career-profile:
 experiences:
     - role: Robotics Teacher
       time: October 2021 - Present
-      company: Alfa Ekpaideutiki, Corfu
+      company: Alfaedu, Corfu
       link: 'https://alfaedu.gr'
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -73,7 +73,7 @@ experiences:
         #  - Bullet point
     - role: Website Content Writer
       time: July 2021 - Present
-      company: Alfa Ekpaideutiki, Corfu
+      company: Alfaedu, Corfu
       link: 'https://alfaedu.gr'
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -111,16 +111,16 @@ experiences:
      #   pellentesque eu, pretium quis, sem.
      #     - Bullet point
      #     - Bullet point
-projects:
-    title: Projects
+#projects:
+    #title: Projects
     #intro: >
    #   You can list your side projects or open source libraries in this
    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Melanoma Image Classification
-        link: "https://github.com/AndreasAvgou/Convolution-Neural-Network-code"
-        tagline: "A convolutional neural network for melanoma image classification"
+    #assignments:
+    #  - title: Melanoma Image Classification
+     #   link: "https://github.com/AndreasAvgou/Convolution-Neural-Network-code"
+     #   tagline: "A convolutional neural network for melanoma image classification"
 
     #  - title: DevStudio
      #   link: "#"
@@ -160,15 +160,15 @@ skills:
         level: 85%
 
       - name: Tensorflow
-        level: 80%
+        level: 85%
 
       - name: Keras
-        level: 80%
+        level: 85%
 
       - name: Spreedsheets
-        level: 85%
+        level: 90%
         
-      - name: Tableau
+      - name: Tableau/PowerBI
         level: 85%
 
 #footer: >
