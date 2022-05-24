@@ -154,22 +154,22 @@ skills:
         level: 90%
 
       - name: R
-        level: 90%
+        level: 80%
 
       - name: SQL
-        level: 85%
+        level: 90%
 
       - name: Tensorflow
-        level: 85%
+        level: 80%
 
       - name: Keras
-        level: 85%
+        level: 80%
 
       - name: Spreedsheets
-        level: 90%
-        
-      - name: Tableau/PowerBI
         level: 85%
+        
+      - name: Visualization
+        level: 70%
 
 #footer: >
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
