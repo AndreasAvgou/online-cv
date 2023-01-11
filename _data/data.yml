@@ -45,9 +45,9 @@ education:
        # pretium quis, sem.
        #   - Bullet point
        #   - Bullet point
-    - degree: High School
-      university: 1st High School Corfu
-      time: September 2012 - June 2015
+    #- degree: High School
+    #  university: 1st High School Corfu
+    #  time: September 2012 - June 2015
 career-profile:
     title: Certificates
     summary: |
@@ -56,7 +56,7 @@ career-profile:
      - [GoldenGatePro Data Science Workshop](https://www.dropbox.com/s/h87a3d4d8uccvr8/Andreas_Augoustis.pdf?dl=0) 
 experiences:
     - role: Robotics Teacher
-      time: October 2021 - Present
+      time: October 2021 - October 2022
       company: Alfaedu, Corfu
       link: 'https://alfaedu.gr'
       #details: |
@@ -151,7 +151,7 @@ skills:
     title: Skills
     toolset:
       - name: Python
-        level: 90%
+        level: 80%
 
       - name: R
         level: 80%
@@ -169,7 +169,7 @@ skills:
         level: 85%
         
       - name: Visualization
-        level: 70%
+        level: 75%
 
 #footer: >
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
