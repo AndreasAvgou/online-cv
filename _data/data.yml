@@ -56,6 +56,14 @@ career-profile:
      - [College Link Data Analytics with R](https://www.dropbox.com/s/ipjbwwgc0o6orcd/certificate-data-analytics-elearning-academy-60e84967b33b2624ae7e16d2%20%281%29.pdf?dl=0)
      - [GoldenGatePro Data Science Workshop](https://www.dropbox.com/s/h87a3d4d8uccvr8/Andreas_Augoustis.pdf?dl=0) 
 experiences:
+    - role: Website Creator and Managment of Association of Educational Caregivers of Corfu
+      time: February 2023 - Present
+      company:  Association of Educational Caregivers of Corfu, Corfu
+      link: 'https://www.sefke.edu.gr/'
+    - role: Website Content Writer
+      time: July 2021 - Present
+      company: Alfaedu, Corfu
+      link: 'https://alfaedu.gr'
     - role: Robotics Teacher
       time: October 2021 - October 2022
       company: Alfaedu, Corfu
@@ -72,10 +80,7 @@ experiences:
        # architecto beatae vitae dicta sunt explicabo.
          # - #Bullet point
         #  - Bullet point
-    - role: Website Content Writer
-      time: July 2021 - Present
-      company: Alfaedu, Corfu
-      link: 'https://alfaedu.gr'
+    
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
