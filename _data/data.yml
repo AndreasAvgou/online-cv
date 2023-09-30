@@ -123,6 +123,10 @@ publications:
     title: Publications
    
     papers:
+      - title: "Identifying Earthquakes in Low-Cost Sensor Signals Contaminated with Vehicular Noise"
+        link : https://www.mdpi.com/2076-3417/13/19/10884
+        authors : Agathos, L.; Avgoustis, A.; Avgoustis, N.; Vlachos, I.; Karydis, I.; Avlonitis, M
+        conference : Special Issue "Machine Learning Applications in Seismology" Appl. Sci. 2023, 13, 10884
       - title: "Applied Deep learning for categorizing dermoscopic images"
         link : https://ieeexplore.ieee.org/abstract/document/9610798
         authors : A. Avgoustis, T. Exarchos, K. L. Kermanidis &amp P. Mylonas
