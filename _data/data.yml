@@ -24,6 +24,16 @@ sidebar:
       - idiom: English
         level: Proficiency
 education:
+    - degree: Phd in Informatics
+      university: Ionian University 
+      time: March 2024 - Present
+      # details: |
+      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+      ##  sociis natoque penatibus et magnis dis parturient montes, nascetur
+       # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+       # pretium quis, sem.
+        #  - Bullet point
+         # - Bullet point
     - degree: MSc in Βig Data Driven Networked Systems
       university: Ionian University 
       time: October 2022 - February 2024
