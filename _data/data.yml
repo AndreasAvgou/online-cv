@@ -23,19 +23,7 @@ sidebar:
 
       - idiom: English
         level: Proficiency
-experiences:
-    - role: Website Creator and Management
-      time: February 2023 - February 2024
-      company:  Association of Educational Caregivers of Corfu, Corfu
-      link: 'https://www.sefke.edu.gr/'
-    - role: Website Content Writer
-      time: July 2021 - January 2024
-      company: Alfaedu, Corfu
-      link: 'https://alfaedu.gr'
-    - role: Robotics Teacher
-      time: October 2021 - October 2022
-      company: Alfaedu, Corfu
-      link: 'https://alfaedu.gr'
+
 education:
     - degree: Phd in Informatics
       university: Ionian University 
@@ -80,7 +68,19 @@ career-profile:
      - [International Diploma in Business Administration](https://www.dropbox.com/s/9isq54cagogrlbk/%CE%91%CE%A5%CE%93%CE%9F%CE%A5%CE%A3%CE%A4%CE%97%CE%A3%20%CE%91%CE%9D%CE%94%CE%A1%CE%95%CE%91%CE%A3.pdf?dl=0)
      - [Google Data Analytics Professional Certificate](https://www.dropbox.com/s/79nqe1hh05gotvi/Coursera%20ZDZZ36Q9XCRF.pdf?dl=0)
 
-    
+    experiences:
+    - role: Website Creator and Management
+      time: February 2023 - February 2024
+      company:  Association of Educational Caregivers of Corfu, Corfu
+      link: 'https://www.sefke.edu.gr/'
+    - role: Website Content Writer
+      time: July 2021 - January 2024
+      company: Alfaedu, Corfu
+      link: 'https://alfaedu.gr'
+    - role: Robotics Teacher
+      time: October 2021 - October 2022
+      company: Alfaedu, Corfu
+      link: 'https://alfaedu.gr'
      # details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
