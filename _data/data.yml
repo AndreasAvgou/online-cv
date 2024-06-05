@@ -29,26 +29,19 @@ experiences:
       time: February 2023 - February 2024
       company:  Association of Educational Caregivers of Corfu, Corfu
       link: 'https://www.sefke.edu.gr/'
-           - Designed and developed a user-friendly website for the Association of Educational Caregivers of Corfu, enhancing online presence and accessibility.
-           - Implemented a content management system (CMS) to facilitate easy updates and maintenance by non-technical staff.
-           - Created and organized website content, including articles, event announcements, and resources for caregivers.
-           - Integrated social media platforms to promote engagement and disseminate information quickly.
     - role: Website Content Writer
       time: July 2021 - January 2024
       company: Alfaedu, Corfu
       link: 'https://alfaedu.gr'
-           - Worked alongside with website developer and manager to update website using PHP
-           - Constantly created articles for the website
     - role: Robotics Teacher
       time: October 2021 - October 2022
       company: Alfaedu, Corfu
       link: 'https://alfaedu.gr'
-           - Using LEGO education spike prime equipment for teaching children 10-12 years old fundamentals of physics, math, programming and music.
-           - Successfully implemented S.T.E.M(Science,Technology,Engineering and Mathematics) model unifying these knowledge objects in a single perception
+
 education:
     - degree: Phd in Informatics
       university: Ionian University 
-      time: March 2024 - Present
+      time: May 2024 - Present
       # details: |
       #  Describe your study here lorem ipsum dolor sit amet, consectetuer
       ##  sociis natoque penatibus et magnis dis parturient montes, nascetur
