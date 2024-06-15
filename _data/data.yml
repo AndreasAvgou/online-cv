@@ -53,13 +53,15 @@ education:
     - degree: Phd Candidate in Informatics
       university: Ionian University 
       time: May 2024 - Present
-      # details: |
-      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-      ##  sociis natoque penatibus et magnis dis parturient montes, nascetur
-       # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-       # pretium quis, sem.
-        #  - Bullet point
-         # - Bullet point
+      details: |
+          Completed a Master’s degree with a strong emphasis on big data technologies and networked systems.
+          This program covered courses such as Big Data Technologies, Network Systems and Security, Advanced Data Mining and Machine Learning, and Stochastic Analysis. 
+          My capstone project involved creating a scalable healthcare process management using machine learning and deep learning with Python, which significantly enhanced data handling capabilities. 
+          Through hands-on projects and research, I developed a deep understanding of machine learning healthcare systems and data analysis and engineering.
+
+          - Capstone Project: Led the development of a scalable healthcare process management using machine learning and deep learning.
+          - Key Achievements: Published research on Applied Sciences in Special Issue "Machine Learning Applications in Seismology"
+          - Skills Gained: Proficient in big data frameworks, machine and deep learning, stochastic analysis and development, and advanced analytical techniques.
     - degree: MSc in Βig Data Driven Networked Systems
       university: Ionian University 
       time: October 2022 - February 2024
