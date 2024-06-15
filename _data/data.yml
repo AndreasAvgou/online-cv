@@ -66,21 +66,17 @@ education:
 
           - Capstone Project: Led the development of a scalable healthcare process management using machine learning and deep learning.
           - Key Achievements: Published research on Applied Sciences in Special Issue "Machine Learning Applications in Seismology"
-          - Skills Gained: Proficient in big data frameworks, machine and deep learning, stochastic analysis and development, and advanced analytical techniques.
+          - Skills Gained: Proficient in big data frameworks, advanced machine and deep learning, stochastic analysis and development, and advanced analytical techniques.
     - degree: BSc in Informatics
       university: Ionian University
       time: October 2015 - February 2021
-      #details: |
-       # Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-       # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-       # pretium quis, sem.
-       #   - Bullet point
-       #   - Bullet point
-    #- degree: High School
-    #  university: 1st High School Corfu
-    #  time: September 2012 - June 2015
+      details: |
+        Earned a Bachelor’s degree in Informatics, with comprehensive learning in data structures, algorithms, database management, computer networks, artificial intelligence, and web development. 
+        My capstone project involved analysis and developing a image Melanoma classification machine learning model using Jupyter Notebooks, showcasing my skills in machine learning. 
+        
+          - Capstone Project: Led the development of an image Melanoma classification model.
+          - Key Achievements: Published research on conference "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)"
+          - Skills Gained: Full-stack python development, fundamentals of machine and deep learning, data visualization, and analytical skills.
 career-profile:
     title: Certificates
     summary: |
