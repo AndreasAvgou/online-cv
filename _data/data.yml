@@ -41,13 +41,13 @@ experiences:
       details: |
         - Worked alongside with website developer and manager to update website using PHP.
         - Constantly created articles for the website.
-    - role: Robotics Teacher
-      time: October 2021 - October 2022
-      company: Alfa Ekpaideutiki, Corfu
-      link: 'https://alfaedu.gr'
-      details: |
-        - Using LEGO education spike prime equipment for teaching children 10-12 years old fundamentals of physics, math, programming and music.
-        - Successfully implemented S.T.E.M(Science,Technology,Engineering and Mathematics) model unifying these knowledge objects in a single perception.
+    #- role: Robotics Teacher
+     # time: October 2021 - October 2022
+     # company: Alfa Ekpaideutiki, Corfu
+     # link: 'https://alfaedu.gr'
+     # details: |
+      #  - Using LEGO education spike prime equipment for teaching children 10-12 years old fundamentals of physics, math, programming and music.
+       # - Successfully implemented S.T.E.M(Science,Technology,Engineering and Mathematics) model unifying these knowledge objects in a single perception.
 
 education:
     - degree: Phd Candidate in Informatics
