@@ -25,7 +25,7 @@ sidebar:
 
 experiences:
     - role: Website Creator and Management
-      time: February 2023 - February 2024
+      time: Feb. 2023 - Feb. 2024
       company:  Association of Educational Caregivers of Corfu, Corfu
       details: |
         - Designed and developed a user-friendly website for the Association of Educational Caregivers of Corfu, enhancing online presence and accessibility.
@@ -34,7 +34,7 @@ experiences:
         - Integrated social media platforms to promote engagement and disseminate information quickly.
       link: 'https://www.sefke.edu.gr/'
     - role: Website Content Writer
-      time: July 2021 - January 2024
+      time: Jul. 2021 - Jan. 2024
       company: Alfa Ekpaideutiki, Corfu
       link: 'https://alfaedu.gr'
       details: |
@@ -61,7 +61,7 @@ education:
          
     - degree: MSc in Βig Data Driven Networked Systems
       university: Ionian University 
-      time: October 2022 - February 2024
+      time: Oct. 2022 - Feb. 2024
       details: |
           Completed a Master’s degree with a strong emphasis on big data technologies and networked systems.
           This program covered courses such as Big Data Technologies, Network Systems and Security, Advanced Data Mining and Machine Learning, and Stochastic Analysis. 
@@ -73,7 +73,7 @@ education:
           - Skills Gained: Proficient in big data frameworks, advanced machine and deep learning, stochastic analysis and development, and advanced analytical techniques.
     - degree: BSc in Informatics
       university: Ionian University
-      time: October 2015 - February 2021
+      time: Oct. 2015 - Feb. 2021
       details: |
         Earned a Bachelor’s degree in Informatics, with comprehensive learning in data structures, algorithms, database management, computer networks, artificial intelligence, and web development. 
         My capstone project involved analysis and developing a image Melanoma classification machine learning model using Jupyter Notebooks, showcasing my skills in machine learning. 
