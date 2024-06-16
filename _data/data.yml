@@ -144,7 +144,7 @@ skills:
         level: 95%
       - name: PowerBI 
         level: 90%
-      - name: Tableu 
+      - name: Tableau 
         level: 85%
       - name: Apache Spark
         level: 85%
@@ -158,6 +158,10 @@ skills:
         level: 75%  
       - name: React
         level: 80%
+      - name: Git
+        level: 70%
+      - name: Docker
+        level: 70%
       
       
 #footer: >
