@@ -137,26 +137,29 @@ publications:
 skills:
     title: Skills
     toolset:
-      - name: Python
-        level: 80%
-
-      - name: R
-        level: 80%
-
       - name: SQL
         level: 90%
-
-      - name: Tensorflow
-        level: 80%
-
-      - name: Keras
-        level: 80%
-
-      - name: Spreedsheets
+      - name: Python
+        level: 90%
+      - name: Excel
+        level: 95%
+      - name: PowerBI 
+        level: 90%
+      - name: Tableu 
         level: 85%
-        
-      - name: Visualization
-        level: 75%
-
+      - name: Apache Spark
+        level: 85%
+      - name: Tensorflow
+        level: 90%
+      - name: Keras
+        level: 90%    
+      - name: Javascript
+        level: 85%
+      - name: PHP
+        level: 75%  
+      - name: React
+        level: 80%
+      
+      
 #footer: >
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
