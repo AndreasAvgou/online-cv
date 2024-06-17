@@ -53,34 +53,60 @@ education:
       university: Ionian University 
       time: May 2024 - Present
       details: |
-          Pursuing a PhD in Informatics, focusing on cutting-edge research in big data analytics and machine learning. 
-          I am engaged in developing advanced algorithms to solve complex data-driven problems. 
-          My current research includes improving algorithmic efficiency and exploring models and applications for lip-reading and voice reproduction. 
-          Collaborating with interdisciplinary teams, I aim to publish impactful papers and present findings at leading conferences. 
-          This role has honed my expertise in big data and deep learning analysis and enhanced my ability to manage and analyze vast datasets, driving meaningful insights and innovations.
+          - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
+          - Developing advanced algorithms to address complex data-driven challenges.
+          - Engaged in research focused on:
+              - Enhancing the efficiency of algorithms.
+              - Exploring innovative models and applications for lip-reading and voice reproduction.
+          - Collaborating with interdisciplinary teams to foster innovative research.
+          - Aiming to publish impactful papers and present findings at premier conferences.
+          - Expertise honed in big data and deep learning analysis.
+          - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
          
     - degree: MSc in Βig Data Driven Networked Systems
       university: Ionian University 
       time: Oct. 2022 - Feb. 2024
       details: |
-          Completed a Master’s degree with a strong emphasis on big data technologies and networked systems.
-          This program covered courses such as Big Data Technologies, Network Systems and Security, Advanced Data Mining and Machine Learning, and Stochastic Analysis. 
-          My capstone project involved creating a scalable healthcare process management using machine learning and deep learning with Python, which significantly enhanced data handling capabilities. 
-          Through hands-on projects and research, I developed a deep understanding of machine learning healthcare systems and data analysis and engineering.
+         - Completed a Master’s degree with a strong focus on big data technologies and networked systems.
+         - Key courses included:
+             - Big Data Technologies
+             - Network Systems and Security
+             - Advanced Data Mining and Machine Learning
+             - Stochastic Analysis
+          - Capstone Project:
+              - Led the development of a scalable healthcare process management system using machine learning and deep learning with Python.
+              - Enhanced data handling capabilities significantly.
+          - Achievements:
+              - Published research in "Applied Sciences" journal in the Special Issue “Machine Learning Applications in Seismology”.
+          - Skills Acquired:
+              - Proficient in big data frameworks.
+              - Advanced expertise in machine and deep learning.
+              - Deep understanding of stochastic analysis and development.
+              - Strong capabilities in advanced analytical techniques.
+              - Gained practical experience through hands-on projects and research in machine learning healthcare systems and data analysis and engineering.
 
-          - Capstone Project: Led the development of a scalable healthcare process management using machine learning and deep learning.
-          - Key Achievements: Published research on Applied Sciences in Special Issue "Machine Learning Applications in Seismology"
-          - Skills Gained: Proficient in big data frameworks, advanced machine and deep learning, stochastic analysis and development, and advanced analytical techniques.
     - degree: BSc in Informatics
       university: Ionian University
       time: Oct. 2015 - Feb. 2021
       details: |
-        Earned a Bachelor’s degree in Informatics, with comprehensive learning in data structures, algorithms, database management, computer networks, artificial intelligence, and web development. 
-        My capstone project involved analysis and developing a image Melanoma classification machine learning model using Jupyter Notebooks, showcasing my skills in machine learning. 
-        
-          - Capstone Project: Led the development of an image Melanoma classification model.
-          - Key Achievements: Published research on conference "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)"
-          - Skills Gained: Full-stack python development, fundamentals of machine and deep learning, data visualization, and analytical skills.
+          - Earned a Bachelor’s degree in Informatics with a broad learning experience in:
+            - Data Structures
+            - Algorithms
+            - Database Management
+            - Computer Networks
+            - Artificial Intelligence
+            - Web Development
+          - Capstone Project:
+            - Led the development of a machine learning model for image Melanoma classification using Jupyter Notebooks.
+            - Demonstrated advanced skills in machine learning applications.
+          - Achievements:
+            - Published research presented at the "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)" conference.
+          - Skills Acquired:
+            - Proficiency in full-stack Python development.
+            - Strong foundation in machine and deep learning principles.
+            - Advanced data visualization techniques.
+            - Enhanced analytical skills.
+
 career-profile:
     title: Certificates
     summary: |
@@ -90,8 +116,6 @@ career-profile:
      - [International Diploma in Business Administration](https://www.dropbox.com/s/9isq54cagogrlbk/%CE%91%CE%A5%CE%93%CE%9F%CE%A5%CE%A3%CE%A4%CE%97%CE%A3%20%CE%91%CE%9D%CE%94%CE%A1%CE%95%CE%91%CE%A3.pdf?dl=0)
      - [Google Data Analytics Professional Certificate](https://www.dropbox.com/s/79nqe1hh05gotvi/Coursera%20ZDZZ36Q9XCRF.pdf?dl=0)
 
-
-      
     
 #projects:
     #title: Projects
