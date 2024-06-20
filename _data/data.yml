@@ -148,6 +148,10 @@ publications:
     title: Publications
    
     papers:
+      - title: "Optimization of Healthcare Process Management Using Machine Learning"
+        link: "https://doi.org/10.1007/978-3-031-63211-2_15"
+        authors: "Avgoustis, A.; Exarchos, T.; Vrahatis, A.G.; Vlamos, P."
+        conference: "Artificial Intelligence Applications and Innovations. AIAI 2024. IFIP Advances in Information and Communication Technology, vol. 711. Springer, Cham."
       - title: "Identifying Earthquakes in Low-Cost Sensor Signals Contaminated with Vehicular Noise"
         link : https://www.mdpi.com/2076-3417/13/19/10884
         authors : Agathos, L.; Avgoustis, A.; Avgoustis, N.; Vlachos, I.; Karydis, I.; Avlonitis, M
