@@ -76,8 +76,9 @@ education:
               - Led the development of a [scalable healthcare process management](https://github.com/AndreasAvgou/Optimization-of-healthcare-process-management-using-machine-learning) system using machine learning and deep learning with Python.
               - Enhanced data handling capabilities significantly.
           - Achievements:
+              - Published [research on "Applied Sciences"](https://www.mdpi.com/2078-2489/15/8/500) in  Special Issue “Information Extraction and Language Discourse Processing”.
               - Published [research in a conference and book chapter](https://link.springer.com/chapter/10.1007/978-3-031-63211-2_15) in "Artificial Intelligence Applications and Innovations”.
-              - Published [research on "Applied Sciences"](https://www.mdpi.com/2076-3417/13/19/10884) in  Special Issue “Machine Learning Applications in Seismology”.
+              - Published [research on "Information"](https://www.mdpi.com/2076-3417/13/19/10884) in  Special Issue “Machine Learning Applications in Seismology”.
           - Skills Acquired:
               - Proficient in big data frameworks.
               - Advanced expertise in machine and deep learning.
@@ -148,18 +149,22 @@ publications:
     title: Publications
    
     papers:
+      - title: "Bridging Linguistic Gaps: Developing a Greek Text Simplification Dataset"
+        link: "https://doi.org/10.3390/info15080500"
+        authors: "Agathos, L.; Avgoustis, A.; Kryelesi, X.; Makridou, A.; Tzanis, I.; Mouratidis, D.; Kermanidis, K.L.; Kanavos, A."
+        conference: Special Issue "Information Extraction and Language Discourse Processing" Information 2024, 15(8), 500
       - title: "Optimization of Healthcare Process Management Using Machine Learning"
         link: "https://doi.org/10.1007/978-3-031-63211-2_15"
         authors: "Avgoustis, A.; Exarchos, T.; Vrahatis, A.G.; Vlamos, P."
         conference: "Artificial Intelligence Applications and Innovations. AIAI 2024. IFIP Advances in Information and Communication Technology, vol. 711. Springer, Cham."
       - title: "Identifying Earthquakes in Low-Cost Sensor Signals Contaminated with Vehicular Noise"
-        link : https://www.mdpi.com/2076-3417/13/19/10884
-        authors : Agathos, L.; Avgoustis, A.; Avgoustis, N.; Vlachos, I.; Karydis, I.; Avlonitis, M
+        link : "https://www.mdpi.com/2076-3417/13/19/10884"
+        authors : "Agathos, L.; Avgoustis, A.; Avgoustis, N.; Vlachos, I.; Karydis, I.; Avlonitis, M"
         conference : Special Issue "Machine Learning Applications in Seismology" Appl. Sci. 2023, 13, 10884
       - title: "Applied Deep learning for categorizing dermoscopic images"
-        link : https://ieeexplore.ieee.org/abstract/document/9610798
-        authors : A. Avgoustis, T. Exarchos, K. L. Kermanidis &amp P. Mylonas
-        conference : 2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4
+        link : "https://ieeexplore.ieee.org/abstract/document/9610798"
+        authors : "A. Avgoustis; T. Exarchos; K. L. Kermanidis &amp P. Mylonas"
+        conference : "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4"
 
 skills:
     title: Skills
